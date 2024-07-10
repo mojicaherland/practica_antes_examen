@@ -9,5 +9,7 @@ public class Main {
         arbol.insertar(35);
         arbol.insertar(60);
         arbol.recinorden();
+
+        System.out.println("Ya di mi examen y me fue bien , es un recordatorio");
     }
 }
